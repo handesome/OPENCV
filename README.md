@@ -1,4 +1,4 @@
-# opencv_exercises
+# opencv_exercises（转载自他人）
 ## 视频地址：https://www.bilibili.com/video/av24998616
 ### 代码主要是跟着贾志刚老师一行一行敲出来的。绝大部分API都查了资料、加了注释，基本上每行要注释的代码都注释了。
 
